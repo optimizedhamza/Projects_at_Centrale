@@ -1,6 +1,6 @@
-# Academic Projects at Centrale
+# Projects at Centrale
 
-Welcome to my repository of academic projects completed during my final year at Centrale. This repository serves as a showcase of the work I've done, reflecting my learning journey and the skills I've acquired. Each project listed here was designed to challenge and enhance my understanding of various subjects within my field of study.
+Welcome to my repository of academic projects completed during my final year at Centrale. This repository serves as a showcase of the work I've done, reflecting my learning journey and the skills I've acquired. Each project listed here was designed to challenge and enhance my understanding of various subjects within my field of study: Data Science.
 
 ## Project Overview
 
