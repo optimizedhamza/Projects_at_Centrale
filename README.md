@@ -24,7 +24,7 @@ This repository contains a curated selection of my academic projects developed a
 3. **Scalable Deployment Architecture:** Features a scalable solution for deploying machine learning models, integrating Amazon SageMaker-managed endpoints with AWS Lambda and Amazon API Gateway to create a robust REST API service for real-time fraud detection.
 4. **Dual Dataset Analysis:** Conducts a thorough analysis of two distinct datasets: Zen Network's telecommunications session data and anonymized credit card transactions, demonstrating the model's adaptability to various data types for fraud detection.
 
-### Project: Dynamic Artistic Weather Wallpaper Application
+### Dynamic Artistic Weather Wallpaper Application
 
 **Description:** This project creates a unique desktop experience by dynamically updating the wallpaper based on the current weather conditions. It leverages real-time weather data and AI-powered image generation to craft artistic representations of the weather, providing a visually engaging desktop environment. The application is equipped with a user-friendly GUI, allowing for straightforward setup and customization.
 
