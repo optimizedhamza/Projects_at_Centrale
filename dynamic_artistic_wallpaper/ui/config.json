@@ -1,0 +1,6 @@
+{
+    "city_name": "casablanca",
+    "weather_api_key": "57279829a0516bb84b4cff66fa46c0af",
+    "img_api_key": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiOTA5M2MwNDAtMjMwYS00Yjc1LWIxNWItNmE0MDI1YzI1ZjkxIiwidHlwZSI6ImFwaV90b2tlbiJ9.6vZNDS6rybFAtrdy4Niwgm87L2DT-rPyKijyIO7VkF8",
+    "update_frequency": "61"
+}
