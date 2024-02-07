@@ -40,6 +40,23 @@ This repository contains a curated selection of my academic projects developed a
 3. **Customizable Update Frequency:** Allows users to specify how often the wallpaper should update to reflect changes in weather conditions.
 4. **Simple GUI for Easy Configuration:** Includes a straightforward graphical user interface for setting up the application, including API key input and update frequency customization.
 
+### Detection of Bots in Online Auctions
+
+**Description:** This project focuses on the critical task of identifying automated bots (bots) in online auctions. Bots are automated programs that can disrupt the smooth operation of auction platforms by placing inappropriate or fraudulent bids. Detecting these entities is essential for preserving the integrity and trustworthiness of online auction platforms, ensuring all participants engage in a fair and transparent bidding environment. The project leverages machine learning techniques to analyze bidder behavior and auction patterns, distinguishing between human and automated bot activities.
+
+**Technologies Used**
+- **Data Analysis and Processing**: Pandas, NumPy
+- **Machine Learning Libraries**: Scikit-learn, Imbalanced-learn
+- **Visualization Tools**: Matplotlib, Seaborn
+- **Feature Engineering Techniques**: Time Series Analysis, Statistical Analysis
+
+**Key Features**
+1. **Comprehensive Data Cleaning**: Addresses missing values and cleans datasets for accurate analysis.
+2. **Advanced Feature Engineering**: Extracts meaningful attributes from raw data, focusing on distinguishing characteristics between bots and humans.
+3. **Machine Learning Model Evaluation**: Employs various models including Logistic Regression, RandomForest, SVM, and Gradient Boosting, with a detailed evaluation of their performance.
+4. **Handling Data Imbalance**: Utilizes techniques like SMOTE to address imbalances in the dataset, ensuring models are not biased towards the majority class.
+5. **Model Optimization**: Applies GridSearchCV for hyperparameter tuning of machine learning models to enhance detection accuracy.
+6. **Insightful Visualizations**: Generates plots and charts for an in-depth exploration of data and to visualize the performance of models.
 
 ## Contact
 Feel free to reach out for any questions, feedback, or suggestions:
